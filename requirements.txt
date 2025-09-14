@@ -2,3 +2,4 @@ Flask==3.0.3
 flask-cors==6.0.1
 chempy==0.10.0
 wheel==0.44.0
+gunicorn==23.0.0
